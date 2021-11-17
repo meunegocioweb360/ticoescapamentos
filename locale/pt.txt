@@ -6,7 +6,7 @@
 tour.description = Ao lado do Makro - Butantã, Av. Min. Laudo Ferreira de Camargo, 117 - Jardim Peri Peri, São Paulo, 05537-001
 
 ### Title
-tour.name = Tico Escapamentos Especiais
+tour.name = Tico Escapamentos Especiais - Tour Virtual 360°
 
 ## Skin
 
