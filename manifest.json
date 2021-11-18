@@ -1,8 +1,6 @@
 {
  "name": "Tico Escapamentos Especiais - Tour Virtual 360°",
- "start_url": "index.htm",
- "theme_color": "#000000",
- "display": "fullscreen",
+ "description": "Ao lado do Makro - Butantã, Av. Min. Laudo Ferreira de Camargo, 117 - Jardim Peri Peri, São Paulo, 05537-001",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +38,8 @@
    "src": "misc/icon64.png"
   }
  ],
- "description": "Ao lado do Makro - Butantã, Av. Min. Laudo Ferreira de Camargo, 117 - Jardim Peri Peri, São Paulo, 05537-001",
+ "start_url": "index.htm",
+ "theme_color": "#000000",
+ "display": "fullscreen",
  "background_color": "#000000"
 }
